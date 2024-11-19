@@ -1,4 +1,4 @@
-## 1. Random Sequence Counter
+// sarvesh randi## 1. Random Sequence Counter
 
 ```verilog
 module random_sequence_counter(
